@@ -4,7 +4,6 @@
 
 ## 👀 My Interests:
 - Backend development and API design
-- E-commerce and online banking systems
 - Exploring new technologies and programming concepts
 
 ## 🌱 Currently Learning:
