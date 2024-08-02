@@ -18,7 +18,7 @@ Here are some technologies and tools I frequently work with:
 - Postman
 
 ## 📫 Get in Touch
-- LinkedIn: [Bhumika Dabariya](https://www.linkedin.com/in/bhumika-dabariya)
+- LinkedIn: [Bhumika Dabariya](https://www.linkedin.com/in/bhumika-dobariya-653b78307/).
 - Email: [bhumikadobariya2412@gmail.com](mailto:bhumikadobariya2412@gmail.com)
 
 ## 🤝 Let's Collaborate
