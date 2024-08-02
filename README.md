@@ -1,4 +1,3 @@
-
 # 🌟 Welcome to my GitHub Profile!
 
 # Hello, I’m Bhumika Dabariya 👋
@@ -20,9 +19,6 @@
 ## 📫 Reach Out To Me:
 - [LinkedIn](https://www.linkedin.com/in/bhumika-dabariya)
 - [Email](mailto:bhumikadobariya2412@gmail.com)
-
-## 😄 Pronouns:
-- She/Her
 
 ## ⚡ Fun Fact:
 - I transitioned from an MSc in Agriculture to tech, merging my analytical skills with programming!
