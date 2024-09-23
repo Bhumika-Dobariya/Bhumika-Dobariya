@@ -25,6 +25,12 @@ I developed a comprehensive e-commerce platform, QuickBuy, with features includi
 ### 💼 [IT Company Resource Management](https://github.com/Bhumika-Dobariya/ResourceWave-IT_company_resource_management_FastAPI)
 This project focuses on managing resources within an IT company, including employee assignments, project tracking, and meeting scheduling. Built with FastAPI, this system streamlines resource allocation and enhances project management efficiency.
 
+### 🏦 [SmartBank Online Banking System](https://github.com/Bhumika-Dobariya/SmartBank-Online_banking_system)
+Created an online banking system with FastAPI, PostgreSQL, and JWT, featuring account management, fund transfers, and real-time notifications.
+
+### 📚 [SkillRise E-Learning Platform](https://github.com/Bhumika-Dobariya/SkillRise-E-learning-plateform)
+Built an e-learning platform using FastAPI and PostgreSQL, offering course management, user authentication, and progress tracking for learners.
+
 ## 📫 Get in Touch
 - LinkedIn: [Bhumika Dabariya](https://www.linkedin.com/in/bhumika-dabariya/)
 - Email: bhumikadobariya2412@gmail.com
