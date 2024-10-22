@@ -5,7 +5,7 @@
 - Exploring new technologies and programming concepts
 
 ## 🌱 Currently Learning:
-- Python backend development with FastAPI and Django
+- Python backend development with FastAPI and Django Rest Framework
 
 ## 🔧 Technologies & Tools
 Here are some technologies and tools I frequently work with:
